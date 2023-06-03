@@ -36,5 +36,3 @@ A while loop is used to continue the game until the player has correctly guessed
 Each time the player makes an incorrect guess. 
 
 A display utilizing the ascii art is shown to remind the player of how many lives they have remaining.
-
-Whenever the player makes a correct guess the display of blank letters is shown.
